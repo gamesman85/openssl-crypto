@@ -3,6 +3,7 @@
 #include <openssl/rsa.h>
 #include <openssl/pem.h>
 #include <fstream>
+#include <sstream>
 #include <memory>
 #include <stdexcept>
 
